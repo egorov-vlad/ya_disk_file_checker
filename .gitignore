@@ -1,0 +1,13 @@
+node_modules
+
+#
+.env.local
+.env.*.local
+.env
+.pass
+.env
+
+
+*.csv
+
+ffmpeg/
